@@ -3,7 +3,7 @@
 .App {
   width: 100vw;
   height: 100vh;
-  background-image: url('C:\Users\Asus\Documents\CodeClause WebDev\Task 1 - Chat Application\client\public\background.jpg');
+  background-image: url('../public/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   color: #212121;
